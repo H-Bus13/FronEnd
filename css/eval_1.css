@@ -140,3 +140,8 @@ p{
     padding-top: 100px;
     padding-left: 65px;
 }   
+#conteiner{
+    border: 1px solid black;
+    width: 99%;
+    padding: 20px;
+}
