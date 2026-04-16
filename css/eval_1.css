@@ -96,12 +96,12 @@ p{
 }
 
 #Ant_edu{
-    padding-left: 380px;
+    padding-left: 360px;
     padding-top: 30px;
 }
 
 #Ant_laboral{
-    padding-left: 400px;
+    padding-left: 380px;
     padding-top: 30px;
 }
 #izquierda_medio{
@@ -111,16 +111,32 @@ p{
 
 .list_cert{
     list-style-type: circle;
+    padding-left: 40px;
 }
 
 .list_curs{
     list-style-type:square;
+    padding-left: 40px;
 }
 
 .list_habil{
     list-style-type:circle;
+    padding-left: 40px;
 }
 
 .empresas{
     padding-top: 25px;
 }
+
+#habilidades{
+    padding-top: 100px;
+    padding-left: 65px;
+}
+#cursos{
+    padding-top: 100px;
+    padding-left: 65px;
+}
+#certificados{
+    padding-top: 100px;
+    padding-left: 65px;
+}   
